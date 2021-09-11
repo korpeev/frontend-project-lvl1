@@ -7,5 +7,5 @@
 &emsp; [example workflow](https://github.com/korpeev/frontend-project-lvl1/workflows/eslint-check.yml/badge.svg)
 
 
-[![asciicast][https://asciinema.org/a/5pfXw4zwqu1CJxnlTmhice89B](https://asciinema.org/a/5pfXw4zwqu1CJxnlTmhice89B)]
+[![asciicast](https://asciinema.org/a/5pfXw4zwqu1CJxnlTmhice89B.svg)](https://asciinema.org/a/5pfXw4zwqu1CJxnlTmhice89B)
 
