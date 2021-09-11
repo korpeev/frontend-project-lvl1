@@ -1,0 +1,8 @@
+name: check-eslint
+on: push
+jobs:
+  my-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: run linter
+        run: make linter
