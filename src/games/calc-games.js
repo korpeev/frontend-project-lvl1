@@ -3,7 +3,7 @@ import getRandomInt from '../utils.js';
 
 const gameDescription = 'What is the result of the expression?';
 
-const getCalc = (first, second, operation) => {
+const calc = (first, second, operation) => {
   let result = null;
   switch (operation) {
     case '+':
