@@ -25,6 +25,9 @@
 
 &emsp;  Определи какое число пропущено в последовательности чисел.
 
+**Brain-prime** - Простое ли число?
+
+&emsp; Определи натуральное ли число.
 ### ** Установка **  :gear:
 :heavy_check_mark: Установите глобально Node.js последний версий. 
 
@@ -34,7 +37,7 @@
 
 :heavy_check_mark: Запустите выбранную игру с командой: 
 
-&emsp; **brain-even** **brain-calc** **brain-gcd** **brain-progression**
+&emsp; **brain-even**, **brain-calc** ,**brain-gcd**, **brain-progression**, **brain-prime**.
 ### Запуск игры Brain-even!
 [![asciicast](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl.svg)](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl)
 
@@ -49,4 +52,8 @@
 ### Запуск игры Brain-progression!
 
 [![asciicast](https://asciinema.org/a/g7VXqPf6WheJ4YzkSMdhY7R53.svg)](https://asciinema.org/a/g7VXqPf6WheJ4YzkSMdhY7R53)
+
+### Запуск игры Brain-prime!
+
+[![asciicast](https://asciinema.org/a/1JThXG3mrbQPYb7n0KZsYEtf0.svg)](https://asciinema.org/a/1JThXG3mrbQPYb7n0KZsYEtf0)
 
