@@ -19,9 +19,13 @@
 
 ### ** Установка **  :gear:
 &emsp; :heavy_check_mark: Установите глобально Node.js последний версий. 
+
 &emsp; :heavy_check_mark: Склонируйте репозиторий к себе локально. 
+
 &emsp; :heavy_check_mark: Выполните установку в командной строке командой make install и npm link. 
+
 &emsp; :heavy_check_mark: Запустите выбранную игру с командой: 
+
 &emsp; **brain-even** **brain-calc**
 ### Запуск игры Brain-even!
 [![asciicast](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl.svg)](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl)
