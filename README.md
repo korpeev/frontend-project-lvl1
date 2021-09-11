@@ -17,6 +17,10 @@
 
 &emsp; Вычисли верно математическое выражение.
 
+**Brain-gcd** - Нод
+
+&emsp; Найти наибольший общий делитель.
+
 ### ** Установка **  :gear:
 :heavy_check_mark: Установите глобально Node.js последний версий. 
 
@@ -26,11 +30,15 @@
 
 :heavy_check_mark: Запустите выбранную игру с командой: 
 
-&emsp; **brain-even** **brain-calc**
+&emsp; **brain-even** **brain-calc** **brain-gcd**
 ### Запуск игры Brain-even!
 [![asciicast](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl.svg)](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl)
 
 ### Запуск игры Brain-calc!
 
 [![asciicast](https://asciinema.org/a/pJTrmw7i5x4RKX90XKWiqPMfy.svg)](https://asciinema.org/a/pJTrmw7i5x4RKX90XKWiqPMfy)
+
+### Запуск игры Brain-gcd!
+
+[![asciicast](https://asciinema.org/a/l5JZ6YaxI40ozeig4DAV71cRT.svg)](https://asciinema.org/a/l5JZ6YaxI40ozeig4DAV71cRT)
 
