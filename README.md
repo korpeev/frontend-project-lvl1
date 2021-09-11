@@ -18,10 +18,10 @@
 &emsp; Вычисли верно математическое выражение.
 
 ### ** Установка **  :gear:
-:heavy_check_mark: Установите глобально Node.js последний версий.
-:heavy_check_mark: Склонируйте репозиторий к себе локально.
-:heavy_check_mark: Выполните установку в командной строке командой make install и npm link.
-:heavy_check_mark: Запустите выбранную игру с командой:  
+:heavy_check_mark: Установите глобально Node.js последний версий. &emsp;
+:heavy_check_mark: Склонируйте репозиторий к себе локально. &emsp;
+:heavy_check_mark: Выполните установку в командной строке командой make install и npm link. &emsp;
+:heavy_check_mark: Запустите выбранную игру с командой: &emsp;
 &emsp; **brain-even** **brain-calc**
 ### Запуск игры Brain-even!
 [![asciicast](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl.svg)](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl)
