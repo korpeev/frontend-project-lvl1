@@ -21,6 +21,10 @@
 
 &emsp; Найти наибольший общий делитель.
 
+**Brain-progression** - Арифметическая прогрессия.
+
+&emsp;  Определи какое число пропущено в последовательности чисел.
+
 ### ** Установка **  :gear:
 :heavy_check_mark: Установите глобально Node.js последний версий. 
 
@@ -30,7 +34,7 @@
 
 :heavy_check_mark: Запустите выбранную игру с командой: 
 
-&emsp; **brain-even** **brain-calc** **brain-gcd**
+&emsp; **brain-even** **brain-calc** **brain-gcd** **brain-progression**
 ### Запуск игры Brain-even!
 [![asciicast](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl.svg)](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl)
 
@@ -41,4 +45,8 @@
 ### Запуск игры Brain-gcd!
 
 [![asciicast](https://asciinema.org/a/l5JZ6YaxI40ozeig4DAV71cRT.svg)](https://asciinema.org/a/l5JZ6YaxI40ozeig4DAV71cRT)
+
+### Запуск игры Brain-progression!
+
+[![asciicast](https://asciinema.org/a/g7VXqPf6WheJ4YzkSMdhY7R53.svg)](https://asciinema.org/a/g7VXqPf6WheJ4YzkSMdhY7R53)
 
