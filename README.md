@@ -1,4 +1,4 @@
-## Brain Games, прокачай свой мозг!
+## Brain Games, прокачай свой мозг! :brain:
 ### Hexlet tests and linter status:
 
 [![Actions Status](https://github.com/korpeev/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/korpeev/frontend-project-lvl1/actions)
@@ -7,14 +7,23 @@
 
 [![Linter-Check](https://github.com/korpeev/frontend-project-lvl1/actions/workflows/eslint-check.yml/badge.svg)](https://github.com/korpeev/frontend-project-lvl1/actions/workflows/eslint-check.yml)
 ## Brain Games 
-:bangbang:
+это игра квиз состоящая из 5 мини игр помогающий развить мозг
+
+**Brain-even**  - Проверка на чётность
+
+&emsp; Определи является ли случайное число чётным.
+
+**Brain-calc** - Калькулятор
+
+&emsp; Вычисли верно математическое выражение.
 
 ### ** Установка **  :gear:
     1. Установите глобально Node.js последний версий.
     2. Склонируйте репозиторий к себе локально.
     3. Выполните установку в командной строке командой make install и npm link.
-    4. Запустите выбранную игру с командой:  **brain-even** **brain-calc**
-## Запуск игры Brain-even!
+    4. Запустите выбранную игру с командой:  
+    **brain-even** **brain-calc**
+### Запуск игры Brain-even!
 [![asciicast](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl.svg)](https://asciinema.org/a/t6DIRewIuPMeTIstaJknMgESl)
 
 ### Запуск игры Brain-calc!
