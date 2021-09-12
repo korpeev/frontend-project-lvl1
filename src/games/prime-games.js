@@ -4,7 +4,7 @@ import getRandomInt from '../utils.js';
 const gameDescription = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
 const isPrime = (number) => {
-  for (let i = 2; i < Math.sqrt(number); i += 1) {
+  for (let i = 2; i <= number; i += 1) {
     if (number % 2 === 0) {
       return false;
     }
