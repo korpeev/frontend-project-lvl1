@@ -1,3 +1,4 @@
+/* eslint-disable consistent-return */
 import runGame from '../index.js';
 import getRandomInt from '../utils.js';
 
