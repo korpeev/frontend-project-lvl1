@@ -1,6 +1,6 @@
 /* eslint-disable consistent-return */
 import runGame from '../index.js';
-import getRandomInt from '../utils.js';
+import { checkNumber } from '../utils.js';
 
 const gameDescription = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
@@ -16,10 +16,8 @@ const isPrime = (number) => {
 };
 
 const gameData = () => {
-  const number = getRandomInt(1, 100);
-  const correctNumber = isPrime(number) ? 'yes' : 'no';
-
-  return [number, correctNumber];
+  const [number, correctAnswer] = checkNumber(isPrime);
+  return [number, correctAnswer];
 };
 
 const startGame = () => runGame(gameDescription, gameData);
