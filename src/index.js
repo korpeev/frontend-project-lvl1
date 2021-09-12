@@ -14,11 +14,11 @@ const runGame = (gameDescr, getGameData) => {
     if (CorrectAnswer === answer) {
       console.log('Correct');
     } else {
-      console.log(`${answer} is wrong answer ;(. Correct answer was ${CorrectAnswer}`);
-      return 0;
+      console.log(`${answer} is wrong answer ;(. Correct answer was ${CorrectAnswer}. \nLet's try again, ${name}!`);
+      return;
     }
   }
-  return console.log(`Congratulations, ${name}!`);
+  console.log(`Congratulations, ${name}!`);
 };
 
 export default runGame;
