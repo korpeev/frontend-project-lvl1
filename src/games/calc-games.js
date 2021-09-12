@@ -15,9 +15,6 @@ const calc = (first, second, operation) => {
     case '*':
       result = first * second;
       break;
-    case '/':
-      result = first / second;
-      break;
     default:
   }
   return result;
@@ -26,7 +23,7 @@ const calc = (first, second, operation) => {
 const gameData = () => {
   const number1 = getRandomInt(1, 50);
   const number2 = getRandomInt(1, 50);
-  const operators = ['-', '+', '*', '/'];
+  const operators = ['-', '+', '*'];
   const operator = operators[getRandomInt(0, operators.length - 1)];
   const question = `${number1} ${operator} ${number2}`;
   const correctAnswer = calc(number1, number2, operator).toString();
