@@ -15,11 +15,10 @@ const runGame = (gameDescr, getGameData) => {
       console.log('Correct');
     } else {
       console.log(`${answer} is wrong answer ;(. Correct answer was ${CorrectAnswer}`);
-      return -1;
+      return 0;
     }
   }
-  console.log(`Congratulations, ${name}`);
-  return 1;
+  return console.log(`Congratulations, ${name}!`);
 };
 
 export default runGame;
