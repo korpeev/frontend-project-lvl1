@@ -4,7 +4,7 @@ import getRandomInt from '../utils.js';
 const gameDescription = 'What is the result of the expression?';
 
 const calc = (first, second, operation) => {
-  let result = null;
+  let result;
   switch (operation) {
     case '+':
       result = first + second;
